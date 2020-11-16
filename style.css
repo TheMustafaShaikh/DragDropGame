@@ -1,0 +1,33 @@
+#apple-drop {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#banana-drop {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#orange-drop {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#pineapple-drop {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#strawberry-drop {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.drop {
+    display: flex;
+}
